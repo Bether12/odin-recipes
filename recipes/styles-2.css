@@ -2,3 +2,12 @@ body{
     border: 5px solid lightblue;
     background-color:aliceblue;
 }
+
+.card{
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px;
+    width: 700px;
+    background-color: whitesmoke;
+    border: 1px solid lightblue;
+}
