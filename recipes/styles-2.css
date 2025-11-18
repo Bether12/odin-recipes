@@ -3,7 +3,12 @@ body{
     background-color:aliceblue;
 }
 
+a{
+    display: block;
+}
+
 .card{
+    display: inline-block;
     text-align: center;
     margin: 0 auto;
     padding: 5px;
