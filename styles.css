@@ -7,3 +7,10 @@
     background-color:aliceblue;
     text-align: center;
 }
+
+li{
+    display: inline-block;
+    background-color: whitesmoke;
+    padding: 8px;
+    border: 1px solid lightblue;
+}
