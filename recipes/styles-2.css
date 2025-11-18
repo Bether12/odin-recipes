@@ -19,3 +19,12 @@ a{
     background-color: whitesmoke;
     border: 1px solid lightblue;
 }
+
+.card2{
+    display: inline-block;
+    margin: 20px;
+}
+
+.card.side{
+    display: block;
+}
