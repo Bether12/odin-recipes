@@ -28,3 +28,6 @@ a{
 .card.side{
     display: block;
 }
+.card.side li{
+    text-align: left;
+}
