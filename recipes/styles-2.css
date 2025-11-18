@@ -5,6 +5,9 @@ body{
 
 a{
     display: block;
+    background-color: whitesmoke;
+    padding: 8px;
+    border: 1px solid lightblue;
 }
 
 .card{
