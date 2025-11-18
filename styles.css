@@ -1,0 +1,9 @@
+.body{
+    width: 600px;
+    height: auto;
+    margin: 0 auto;
+    padding: 16px;
+    border: 5px solid lightblue;
+    background-color:aliceblue;
+    text-align: center;
+}
